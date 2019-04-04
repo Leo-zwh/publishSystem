@@ -1,0 +1,16 @@
+2019-04-04 10:23:19,924 DEBUG - Starting ServiceWrapper in the CLI mode
+2019-04-04 10:23:20,193 INFO  - Installing the service with id 'jenkinsslave-D__PycharmProjects_xy_publishSystem_testRun'
+2019-04-04 10:23:20,210 FATAL - WMI Operation failure: AccessDenied
+WMI.WmiException: AccessDenied
+   在 WMI.WmiRoot.BaseHandler.CheckError(ManagementBaseObject result)
+   在 WMI.WmiRoot.ClassHandler.Invoke(Object proxy, MethodInfo method, Object[] args)
+   在 winsw.WrapperService.Run(String[] _args, ServiceDescriptor descriptor)
+   在 winsw.WrapperService.Main(String[] args)
+2019-04-04 10:23:28,127 DEBUG - Starting ServiceWrapper in the CLI mode
+2019-04-04 10:23:28,363 INFO  - Installing the service with id 'jenkinsslave-D__PycharmProjects_xy_publishSystem_testRun'
+2019-04-04 10:23:28,373 FATAL - WMI Operation failure: AccessDenied
+WMI.WmiException: AccessDenied
+   在 WMI.WmiRoot.BaseHandler.CheckError(ManagementBaseObject result)
+   在 WMI.WmiRoot.ClassHandler.Invoke(Object proxy, MethodInfo method, Object[] args)
+   在 winsw.WrapperService.Run(String[] _args, ServiceDescriptor descriptor)
+   在 winsw.WrapperService.Main(String[] args)
