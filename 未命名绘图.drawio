@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T03:06:46.542Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="j-ufwZjtF3Y-Vq06D8SZ" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T03:25:14.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="6DD7tlhZ3EvNemYYucHI" version="21.1.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1674" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="duuvg9W_gR2Q3q82Fqal-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="duuvg9W_gR2Q3q82Fqal-1" target="duuvg9W_gR2Q3q82Fqal-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="duuvg9W_gR2Q3q82Fqal-1" value="起草/审批驳回&lt;br&gt;/审批生效后更改&lt;br&gt;状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="duuvg9W_gR2Q3q82Fqal-1" value="起草/审批驳回&lt;br&gt;状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="597.5" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="duuvg9W_gR2Q3q82Fqal-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="duuvg9W_gR2Q3q82Fqal-3" target="duuvg9W_gR2Q3q82Fqal-21">
@@ -100,7 +100,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="duuvg9W_gR2Q3q82Fqal-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.012;exitY=0.633;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="duuvg9W_gR2Q3q82Fqal-62">
+        <mxCell id="duuvg9W_gR2Q3q82Fqal-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.012;exitY=0.633;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="duuvg9W_gR2Q3q82Fqal-62" target="duuvg9W_gR2Q3q82Fqal-72">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="700" y="699" as="sourcePoint" />
             <mxPoint x="266" y="503" as="targetPoint" />
@@ -182,6 +182,23 @@
         </mxCell>
         <mxCell id="duuvg9W_gR2Q3q82Fqal-99" value="审批通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="736" y="406" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="duuvg9W_gR2Q3q82Fqal-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="duuvg9W_gR2Q3q82Fqal-102" target="duuvg9W_gR2Q3q82Fqal-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="duuvg9W_gR2Q3q82Fqal-102" value="上传SAP" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="996" y="359.5" width="106" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="duuvg9W_gR2Q3q82Fqal-103" value="上传SAP失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1000" y="285" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="duuvg9W_gR2Q3q82Fqal-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="duuvg9W_gR2Q3q82Fqal-104">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1357" y="617" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duuvg9W_gR2Q3q82Fqal-104" value="上传SAP成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1307" y="400" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
